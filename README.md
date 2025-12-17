@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: #db2777;">Hi, I’m Boitumelo Moitshela 👋</h1>
+  <h1 style="color: #db2777;">Hi, I’m Boitumelo Moitshela </h1>
   <p><b>Junior Developer | Monitoring & Evaluation Practitioner | Junior Technical Project Manager</b></p>
   
   <blockquote align="center">
@@ -31,8 +31,8 @@
     <h3>💰 Task Reminder App</h3>
     <p>A practical To-Do system with overdue and urgent task tracking.</p>
     
-    <h3>💰 Un-Responsive Spur Website Clone</h3>
-    <p>A fully responsive front-end landing page for a wellness center.</p>
+    <h3>💰 Responsive Spur Website Clone</h3>
+    <p>Django Blog.</p>
   </div>
 </div>
     <p>A fully responsive front-end landing page for a wellness center.</p>
